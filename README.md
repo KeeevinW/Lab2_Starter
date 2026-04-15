@@ -1,3 +1,4 @@
 # Lab 2 - Starter
 
-Deployment test
+## Published Site
+**Link:** https://keeevinw.github.io/Lab2_Starter/
